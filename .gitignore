@@ -1,0 +1,25 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+.user.ini
+
+# Dependencies & Caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+
+# Archives & Backups
+*.zip
+*.tar.gz
+*.bak
+
+# Logs
+*.log
+logs/
+
+# Windows batch scripts
+*.bat
+*.cmd

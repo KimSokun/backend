@@ -1,0 +1,37 @@
+{
+  "leftAd": {
+    "enabled": true,
+    "customHtml": "<script>\n  atOptions = {\n    'key' : '5c7b6e4521d81685eb834927b9928818',\n    'format' : 'iframe',\n    'height' : 600,\n    'width' : 160,\n    'params' : {}\n  };\n</script>\n<script src=\"https://www.highperformanceformat.com/5c7b6e4521d81685eb834927b9928818/invoke.js\"></script>\n",
+    "width": 160,
+    "height": 600
+  },
+  "rightAd": {
+    "enabled": true,
+    "customHtml": "<script>\n  atOptions = {\n    'key' : '5c7b6e4521d81685eb834927b9928818',\n    'format' : 'iframe',\n    'height' : 600,\n    'width' : 160,\n    'params' : {}\n  };\n</script>\n<script src=\"https://www.highperformanceformat.com/5c7b6e4521d81685eb834927b9928818/invoke.js\"></script>\n",
+    "width": 160,
+    "height": 600
+  },
+  "bottomBanner": {
+    "enabled": true,
+    "customHtml": "<script>\n  atOptions = {\n    'key' : '30e219b0af7af6537c5c53cc041107e8',\n    'format' : 'iframe',\n    'height' : 90,\n    'width' : 728,\n    'params' : {}\n  };\n</script>\n<script src=\"https://www.highperformanceformat.com/30e219b0af7af6537c5c53cc041107e8/invoke.js\"></script>\n",
+    "width": 728,
+    "height": 90
+  },
+  "stickyBottomAd": {
+    "enabled": true,
+    "customHtml": "<script>\n  atOptions = {\n    'key' : '30e219b0af7af6537c5c53cc041107e8',\n    'format' : 'iframe',\n    'height' : 90,\n    'width' : 728,\n    'params' : {}\n  };\n</script>\n<script src=\"https://www.highperformanceformat.com/30e219b0af7af6537c5c53cc041107e8/invoke.js\"></script>\n",
+    "width": 728,
+    "height": 90
+  },
+  "mobileAd": {
+    "enabled": true,
+    "customHtml": "<script>\n  atOptions = {\n    'key' : 'a38f9042089abb00a05489ced98ecbfc',\n    'format' : 'iframe',\n    'height' : 250,\n    'width' : 300,\n    'params' : {}\n  };\n</script>\n<script src=\"https://www.highperformanceformat.com/a38f9042089abb00a05489ced98ecbfc/invoke.js\"></script>\n",
+    "width": 320,
+    "height": 100
+  },
+  "directLinkUrl": "https://www.effectivecpmnetwork.com/j5fn3m47k?key=5367282d0ccd5d5003b6841f9b5723ea",
+  "downloadAd": {
+    "enabled": true,
+    "url": "https://www.effectivecpmnetwork.com/j5fn3m47k?key=5367282d0ccd5d5003b6841f9b5723ea"
+  }
+}
